@@ -1,0 +1,18 @@
+Project steps in this project for TextMining are:
+
+1-  Count all words in each Message
+2-  Count all character in each Message
+3-  Download Stopwards and Count all stopwords in each Message
+4-  Change to Lowercase all Messages
+5-  Count symbols in each Message
+6-  Remove symbols in each Message
+7-  Stemmming
+8-  Split the classes
+9-  Remove Stopwards in each Message
+10-  Count all words and Sort them decreasing
+11- Remove the words that their count are less than 20
+12- Bag Of Words- By using BOW we can add new variable (new column) to data set
+13- Apply Lasso Method
+14- Apply Ridge Method
+15- Apply ElasticNet Method
+16- Compare the Accuracy of Lasso, Ridge, and ElasticNet methods
